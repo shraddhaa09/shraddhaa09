@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=200&section=header&text=Shraddha%20Khetmalis&fontSize=45&fontColor=ffffff" />
+## Welcome to my corner of GitHub 🌱
+
+I'm Shraddha, glad you're here.
 </p>
 
 <p align="center">
