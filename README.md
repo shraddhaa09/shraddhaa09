@@ -3,36 +3,15 @@
 I'm Shraddha, glad you're here.
 </p>
 <p align="center">
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/VIT%20Pune-B.Tech%20Computer%20Science-6A5ACD?style=for-the-badge" />
-
-<a href="https://gssoc.girlscript.org/profile/978ac26e-7a8e-48e7-8790-9da0409f6aa3">
-    <img src="https://img.shields.io/badge/GSSoC%202026-Contributor-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
-</a>
-
-<img src="https://img.shields.io/badge/Open%20Source-Merged%20PRs-success?style=for-the-badge" />
-
-<p align="center">
-<a href="https://leetcode.com/u/shraddha_9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.naukri.com/code360/profile/845d8673-c7ce-407a-9f26-dccbd2c89a87"><img src="https://img.shields.io/badge/Code360-DD6620?style=for-the-badge"/></a>
-<a href="https://www.geeksforgeeks.org/profile/shraddhakhec96b?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-</p>
-
-</p>
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://github.com/shraddhaa09">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
+<a href="https://github.com/shraddhaa09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/shraddha_9/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.naukri.com/code360/profile/845d8673-c7ce-407a-9f26-dccbd2c89a87"><img src="https://img.shields.io/badge/Code360-DD6620?style=flat"/></a>
+<a href="https://www.geeksforgeeks.org/profile/shraddhakhec96b?tab=activity"><img src="https://img.shields.io/badge/GFG-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://gssoc.girlscript.org/profile/978ac26e-7a8e-48e7-8790-9da0409f6aa3"><img src="https://img.shields.io/badge/GSSoC'26-Contributor-FF6B6B?style=flat&logo=opensourceinitiative&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/B.Tech-VIT%20Pune-6A5ACD?style=flat"/>
+<img src="https://img.shields.io/badge/Open%20Source-Merged%20PRs-success?style=flat"/>
 </p>
 
 ### Languages
@@ -60,12 +39,15 @@ I'm Shraddha, glad you're here.
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shraddhaa09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shraddhaa09&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+</td>
 
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shraddhaa09&theme=tokyonight&hide_border=true" />
-</p>
+<td>
+<img src="https://streak-stats.demolab.com?user=shraddhaa09&theme=tokyonight&hide_border=true" height="150"/>
+</td>
+</tr>
+</table>
 
