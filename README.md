@@ -2,10 +2,6 @@
 
 I'm Shraddha, glad you're here.
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Open+Source+Contributor;Building+and+Learning+Every+Day" />
-</p>
 <p align="center">
 
 <p align="center">
