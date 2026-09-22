@@ -1,7 +1,9 @@
-## Welcome to my corner of GitHub🦖 
+## Welcome to my corner of GitHub 🦖
 
 I'm Shraddha, glad you're here.
-</p>
+
+> let the pot be bad. let the evening be good.
+
 <p align="center">
 <a href="https://github.com/shraddhaa09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -16,26 +18,26 @@ I'm Shraddha, glad you're here.
 
 ### Languages
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2B%2B&logoColor=00599C)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C](https://img.shields.io/badge/-C-000?\&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?\&logo=c%2B%2B\&logoColor=00599C)
+![Python](https://img.shields.io/badge/-Python-000?\&logo=Python)
+![Java](https://img.shields.io/badge/-Java-000?\&logo=Java\&logoColor=007396)
+![Dart](https://img.shields.io/badge/-Dart-000?\&logo=Dart)
+![SQL](https://img.shields.io/badge/-SQL-000?\&logo=MySQL)
 
 ### Technologies
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![React](https://img.shields.io/badge/-React-000?\&logo=React)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?\&logo=FastAPI)
+![PHP](https://img.shields.io/badge/-PHP-000?\&logo=PHP)
+![Flutter](https://img.shields.io/badge/-Flutter-000?\&logo=Flutter)
+![Firebase](https://img.shields.io/badge/-Firebase-000?\&logo=Firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-000?\&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?\&logo=PostgreSQL)
+![Supabase](https://img.shields.io/badge/-Supabase-000?\&logo=Supabase)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?\&logo=PyTorch)
+![Git](https://img.shields.io/badge/-Git-000?\&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?\&logo=GitHub)
 
 ## GitHub Analytics
 
@@ -50,4 +52,3 @@ I'm Shraddha, glad you're here.
 </td>
 </tr>
 </table>
-
