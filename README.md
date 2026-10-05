@@ -2,7 +2,7 @@
 
 I'm Shraddha, glad you're here.
 
-> let the pot be bad. let the evening be good.
+> let the pot be bad. let the evening be good.💤
 
 <p align="center">
 <a href="https://github.com/shraddhaa09"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
